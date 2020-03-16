@@ -1,0 +1,42 @@
+{
+  "name": "with-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run clean && next",
+    "build": "npm run clean && next build",
+    "start": "next start",
+    "export": "next export",
+    "clean": "rm -rf .next",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "@emotion/cache": "11.0.0-next.10",
+    "@emotion/css": "11.0.0-next.11",
+    "@emotion/react": "11.0.0-next.11",
+    "@emotion/server": "11.0.0-next.10",
+    "@emotion/styled": "11.0.0-next.11",
+    "facepaint": "^1.2.1",
+    "isomorphic-unfetch": "3.0.0",
+    "next": "latest",
+    "next-seo": "^4.4.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "typeface-cooper-hewitt": "0.0.44"
+  },
+  "devDependencies": {
+    "@emotion/babel-preset-css-prop": "11.0.0-next.10",
+    "@mdx-js/loader": "^1.5.7",
+    "@next/mdx": "^9.3.0",
+    "@svgr/webpack": "^5.2.0",
+    "@types/node": "^13.9.1",
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5",
+    "mdx-prism": "^0.3.1",
+    "rehype": "^9.0.1",
+    "tsconfig-paths-webpack-plugin": "^3.2.0",
+    "typescript": "^3.8.3",
+    "@types/facepaint": "^1.2.1"
+  },
+  "license": "ISC",
+  "author": "tronjs.dev@gmail.com"
+}

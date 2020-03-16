@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a08f95d5-aa9b-4ea6-b50b-2e5fbdfde702" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1Z4PpkDXJKDQvJ5Q5Q3524DsdWa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/@types" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/pages/posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/components/layouts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a08f95d5-aa9b-4ea6-b50b-2e5fbdfde702" name="Default Changelist" comment="" />
+      <created>1584095577886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584095577886</updated>
+      <workItem from="1584095580185" duration="2627000" />
+      <workItem from="1584176985114" duration="15590000" />
+      <workItem from="1584276320364" duration="12190000" />
+      <workItem from="1584322112662" duration="1062000" />
+      <workItem from="1584323193068" duration="197000" />
+      <workItem from="1584323407081" duration="114000" />
+      <workItem from="1584323539126" duration="21781000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1584187988328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584187988328</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1584188255856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584188255856</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Theming: fist stage">
+      <created>1584291923776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584291923776</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Theming: fist stage">
+      <created>1584338687106</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584338687106</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Theming: fist stage">
+      <created>1584348213177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584348213177</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Theming: fist stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Theming: fist stage" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1584288709537">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="801" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/66.27.1854.1053@66.27.1854.1053" timestamp="1584288709537" />
+    <state x="512" y="58" width="1194" height="931" key="CommitChangelistDialog2" timestamp="1584348213100">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="512" y="58" width="1194" height="931" key="CommitChangelistDialog2/66.27.1854.1053@66.27.1854.1053" timestamp="1584348213100" />
+    <state x="482" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1584342052347">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="482" y="188" width="1022" height="737" key="SettingsEditor/66.27.1854.1053@66.27.1854.1053" timestamp="1584342052347" />
+    <state width="498" height="447" key="SwitcherDM" timestamp="1584324443335">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="498" height="447" key="SwitcherDM/66.27.1854.1053@66.27.1854.1053" timestamp="1584324443335" />
+    <state x="588" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1584292015282">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="588" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/66.27.1854.1053@66.27.1854.1053" timestamp="1584292015282" />
+    <state x="643" y="249" width="700" height="608" key="find.popup" timestamp="1584288745112">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="643" y="249" width="700" height="608" key="find.popup/66.27.1854.1053@66.27.1854.1053" timestamp="1584288745112" />
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1584342062846">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup/66.27.1854.1053@66.27.1854.1053" timestamp="1584342062846" />
+  </component>
+</project>
